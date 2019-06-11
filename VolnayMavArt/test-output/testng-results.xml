@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="83340" started-at="2019-06-11T17:14:15Z" finished-at="2019-06-11T17:15:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="83340" started-at="2019-06-11T17:14:15Z" finished-at="2019-06-11T17:15:38Z">
+      <class name="volnay.Test.LoginTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:volnay.Test.LoginTest@4493d195]" name="launchBrowser" is-config="true" duration-ms="3125" started-at="2019-06-11T17:14:15Z" finished-at="2019-06-11T17:14:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="test_Home_Page_Appear_Correct(java.lang.String, java.lang.String, java.util.ArrayList)[pri:0, instance:volnay.Test.LoginTest@4493d195]" name="test_Home_Page_Appear_Correct" duration-ms="80191" started-at="2019-06-11T17:14:18Z" data-provider="dp" finished-at="2019-06-11T17:15:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[infant.derrick.gnanasusairaj@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gnanasusairaj123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[[volnay.Mod.AddEventFields@2a693f59, volnay.Mod.AddEventFields@3f4faf53]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Home_Page_Appear_Correct -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:volnay.Test.LoginTest@4493d195]" name="afterTest" is-config="true" duration-ms="1" started-at="2019-06-11T17:15:38Z" finished-at="2019-06-11T17:15:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- volnay.Test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
