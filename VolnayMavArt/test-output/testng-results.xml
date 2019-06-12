@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="83340" started-at="2019-06-11T17:14:15Z" finished-at="2019-06-11T17:15:38Z">
+  <suite name="Default suite" duration-ms="83570" started-at="2019-06-11T22:39:55Z" finished-at="2019-06-11T22:41:18Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="83340" started-at="2019-06-11T17:14:15Z" finished-at="2019-06-11T17:15:38Z">
+    <test name="Default test" duration-ms="83570" started-at="2019-06-11T22:39:55Z" finished-at="2019-06-11T22:41:18Z">
       <class name="volnay.Test.LoginTest">
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:volnay.Test.LoginTest@4493d195]" name="launchBrowser" is-config="true" duration-ms="3125" started-at="2019-06-11T17:14:15Z" finished-at="2019-06-11T17:14:18Z">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:volnay.Test.LoginTest@e874448]" name="launchBrowser" is-config="true" duration-ms="3896" started-at="2019-06-11T22:39:55Z" finished-at="2019-06-11T22:39:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="test_Home_Page_Appear_Correct(java.lang.String, java.lang.String, java.util.ArrayList)[pri:0, instance:volnay.Test.LoginTest@4493d195]" name="test_Home_Page_Appear_Correct" duration-ms="80191" started-at="2019-06-11T17:14:18Z" data-provider="dp" finished-at="2019-06-11T17:15:38Z">
+        <test-method status="PASS" signature="test_Home_Page_Appear_Correct(java.lang.String, java.lang.String, java.util.ArrayList)[pri:0, instance:volnay.Test.LoginTest@e874448]" name="test_Home_Page_Appear_Correct" duration-ms="79633" started-at="2019-06-11T22:39:59Z" data-provider="dp" finished-at="2019-06-11T22:41:18Z">
           <params>
             <param index="0">
               <value>
@@ -25,14 +25,14 @@
             </param>
             <param index="2">
               <value>
-                <![CDATA[[volnay.Mod.AddEventFields@2a693f59, volnay.Mod.AddEventFields@3f4faf53]]]>
+                <![CDATA[[volnay.Mod.AddEventFields@57bc27f5, volnay.Mod.AddEventFields@5fb759d6]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_Home_Page_Appear_Correct -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:volnay.Test.LoginTest@4493d195]" name="afterTest" is-config="true" duration-ms="1" started-at="2019-06-11T17:15:38Z" finished-at="2019-06-11T17:15:38Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:volnay.Test.LoginTest@e874448]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-06-11T22:41:18Z" finished-at="2019-06-11T22:41:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
